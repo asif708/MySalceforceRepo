@@ -2,8 +2,8 @@ This is my first git project...!!!
 
 class HelloGit{
 
-	main(){
+	public static void main(){
 
-		sysout("Hello Git...Welcome to Git...");
+		sysout("Hello Git...Welcome to Git!!!");
 	}
 }
