@@ -2,15 +2,16 @@
 
 class HelloGit{
 
-	private	void printHello(){
+	private	void printHello(String str){
 	
-	System.out.println("Hello Git...Welcome to Git!!!");
+	System.out.println(str);
 
 	}
 		
 
 	public static void main(String args[]){
 
-		
+		HelloGit obj  = new HelloGit();
+		obj.printHello("Hello Git...!!!");
 	}
 }
