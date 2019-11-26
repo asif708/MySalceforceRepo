@@ -4,7 +4,10 @@ class HelloGit{
 
 
 	void feature1(){
+
 		System.out.println("Feature1 implemented");
+
+		Sysout(feature1 implemented by other way);
 	}
 
 	private	void printHello(){
