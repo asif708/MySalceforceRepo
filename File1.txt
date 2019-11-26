@@ -2,6 +2,11 @@
 
 class HelloGit{
 
+
+	void feature1(){
+
+	}
+
 	private	void printHello(){
 		
 		System.out.println("Hello Git...Welcome to Git!!!");
