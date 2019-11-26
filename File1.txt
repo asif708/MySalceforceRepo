@@ -1,9 +1,9 @@
-This is my first git project...!!!
+//This is my first git project...!!!
 
 class HelloGit{
 
-	public static void main(){
+	public static void main(String args[]){
 
-		sysout("Hello Git...Welcome to Git!!!");
+		System.out.println("Hello Git...Welcome to Git!!!");
 	}
 }
