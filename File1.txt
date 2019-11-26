@@ -2,7 +2,7 @@
 
 class HelloGit{
 
-	private	void printHello(){
+	private	static void printHello(){
 	
 	System.out.println("Hello Git...Welcome to Git!!!");
 
